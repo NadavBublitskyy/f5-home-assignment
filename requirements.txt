@@ -1,0 +1,4 @@
+# Pinned versions -> the pipeline is reproducible and won't break
+# when a new release of a dependency comes out.
+pytest==9.1.1
+requests==2.34.2
